@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and this GitHub repository."
+title: "AIBA-EHR Reproducibility Repository"
+authors:
+  - family-names: "INSERT_CORRESPONDING_AUTHOR_SURNAME"
+    given-names: "INSERT_GIVEN_NAMES"
+version: "1.0.0"
+date-released: "2026-05-31"
+repository-code: "INSERT_GITHUB_REPOSITORY_URL"
+license: "MIT"
